@@ -1,4 +1,5 @@
-/* Remote CSS from https://api.github.com/repos/wcasia/theme-2020/contents/css/dest/wcasia-2020.min.css */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;700&family=Work+Sans:wght@400;700&display=swap');
+
 body {
 	background: #f5f1e8;
 	margin: 0;
