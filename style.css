@@ -837,7 +837,8 @@ select:focus {
 }
 
 .current-menu-item>a {
-	color: #9B7865;
+	color: #ffffff;
+	background: #7E4E38;
 }
 
 .menu-item-has-children .dropdown-toggle {
