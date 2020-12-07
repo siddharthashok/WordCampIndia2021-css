@@ -813,7 +813,7 @@ select:focus {
 	font-weight: 400;
 	color: #f7e6dd;
 	padding: .75rem 2rem;
-	font-family: 'Crimson Text', serif;
+	font-family: 'Work Sans', sans-serif;
 }
 
 .menu-item a.focus,.menu-item a:active,.menu-item a:focus,.menu-item a:hover {
@@ -1390,7 +1390,7 @@ article.comment-body .reply {
 
 @media screen and (min-width:768px) {
 	.entry-title {
-		font-size: 2.441rem;
+		font-size: 3.6rem;
 	}
 
 	.page .entry-header,.single .entry-header {
