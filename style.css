@@ -2960,3 +2960,7 @@ Version: 0.1.0
 }
 
 .jetpack_subscription_widget #subscribe-email input[type=email] {    border: 1px solid #d4d3d3;}
+
+
+.wcb_widget_sponsors .sponsor-logo {padding: 20px;}
+.wcb_widget_sponsors .sponsor-logo img {width: auto; max-height: 80px; max-width: 200px;}
