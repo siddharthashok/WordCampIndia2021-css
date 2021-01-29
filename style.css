@@ -475,6 +475,7 @@ select:focus {
 	font-size: 30.17px;
 	line-height: 36px;
 	width: 80%; margin:0px;
+	display: none;
 }
 
 .home .site-header #header-widgets {
@@ -497,7 +498,7 @@ select:focus {
 }
 
 .site-header .custom-header .custom-logo,.site-header .custom-header .custom-logo-link {
-	display: none;
+	/* display: none; */
 }
 
 .site-header .custom-header .site-branding {
@@ -907,8 +908,9 @@ select:focus {
 		flex-direction: row;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		-ms-flex-pack: center;
-		justify-content: center;
+		-ms-flex-pack: flex-end;
+		justify-content: flex-end;
+		padding: 0px 50px;
 	}
 
 	.page-navigation-container ul a {
@@ -925,7 +927,7 @@ select:focus {
 
 	.menu-item a {
 		font-size: 1.125rem;
-		padding: .75rem 1rem;
+		padding: 25px 15px;
 	}
 
 	.menu-item.call-to-action {
