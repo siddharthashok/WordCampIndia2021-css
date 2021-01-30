@@ -2971,6 +2971,9 @@ Version: 0.1.0
 .watch-live {
     background-color: rgba(198,94,22,0.6);
 }
+
+.watch-live:hover {background-color: rgba(198,94,22,1);}
+
 .watch-live:after {
 	content: "";
 	position: absolute;
