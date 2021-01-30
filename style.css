@@ -928,6 +928,7 @@ select:focus {
 	.menu-item a {
 		font-size: 1.125rem;
 		padding: 25px 15px;
+		height: 100%;
 	}
 
 	.menu-item.call-to-action {
