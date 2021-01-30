@@ -908,8 +908,8 @@ select:focus {
 		flex-direction: row;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		-ms-flex-pack: flex-end;
-		justify-content: flex-end;
+		-ms-flex-pack: center;
+		justify-content: center;
 		padding: 0px 50px;
 	}
 
